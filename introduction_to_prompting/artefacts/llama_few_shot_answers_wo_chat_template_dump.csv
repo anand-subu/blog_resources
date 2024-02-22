@@ -1,0 +1,596 @@
+Predicted String,Extracted Option
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is A.
+A 25",A
+"The answer is B.
+A 25",B
+"The answer is B.
+A 25",B
+"The answer is D.
+A 45",D
+"The answer is B.
+A 35",B
+"The answer is C.
+A 25",C
+"The answer is A.
+A 25",A
+"The answer is A.
+A 45",A
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is A.
+A 45",A
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 35",B
+"The answer is C.
+A 25",C
+The answer is B.,B
+"The answer is A.
+A 35",A
+"The answer is C.
+A 45",C
+"The answer is B.
+A 35",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 40",C
+"The answer is B.
+A 25",B
+"The answer is B.
+A 25",B
+The answer is B. Continue using the non,B
+"The answer is D.
+A 45",D
+"The answer is D.
+A 45",D
+"The answer is A.
+A 35",A
+"The answer is B.
+A 45",B
+"The answer is A.
+A 45",A
+"The answer is A.
+A 45",A
+"The answer is D.
+A 45",D
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 25",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 45",B
+"The answer is C.
+A 25",C
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is A.
+A 65",A
+"The answer is B.
+A 35",B
+"The answer is A.
+A 40",A
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is C.
+A 25",C
+"The answer is C.
+A 35",C
+"The answer is D.
+A 45",D
+"The answer is B.
+A 35",B
+"The answer is B.
+A 35",B
+"The answer is D.
+A 25",D
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is A.
+A 45",A
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 35",C
+"The answer is B.
+A 35",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 25",B
+"The answer is A.
+A 45",A
+"The answer is C.
+A 35",C
+"The answer is A.
+A 45",A
+"The answer is B.
+A 65",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is C.
+A 45",C
+"The answer is A.
+A 65",A
+"The answer is B.
+A 35",B
+"The answer is A.
+A 35",A
+"The answer is B.
+A 25",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 25",C
+"The answer is B.
+A 65",B
+"The answer is B.
+A 45",B
+"The answer is A.
+A 45",A
+"The answer is B.
+A 25",B
+"The answer is C.
+A 45",C
+"The answer is A.
+A 40",A
+"The answer is B.
+A 35",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 35",C
+"The answer is C.
+A 65",C
+"The answer is B.
+A 65",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 4-",B
+"The answer is B.
+A 35",B
+"The answer is A.
+A 45",A
+"The answer is B.
+A 40",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 25",B
+"The answer is B.
+A 35",B
+"The answer is D.
+A 45",D
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is D.
+A 45",D
+"The answer is B.
+A 45",B
+"The answer is A.
+A 45",A
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is A.
+A 35",A
+"The answer is D.
+A 45",D
+"The answer is A.
+A 25",A
+"The answer is A.
+A 35",A
+"The answer is B.
+A 35",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 35",C
+"The answer is A.
+A 45",A
+"The answer is B.
+A 35",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 35",C
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is D.
+A 45",D
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 35",C
+"The answer is D.
+A 35",D
+"The answer is A.
+A 45",A
+"The answer is A.
+A 45",A
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 45",B
+"The answer is D.
+A 35",D
+"The answer is C.
+A 45",C
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is C.
+A 40",C
+"The answer is B.
+A 35",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 45",B
+"The answer is A.
+A 65",A
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 65",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 45",B
+"The answer is D.
+A 25",D
+"The answer is C.
+A 25",C
+"The answer is A.
+A 35",A
+The answer is B.,B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is A.
+A 45",A
+"The answer is B.
+A 25",B
+"The answer is C.
+A 45",C
+"The answer is D.
+A 35",D
+"The answer is B.
+A 45",B
+"The answer is D.
+A 35",D
+"The answer is C.
+A 25",C
+"The answer is B.
+A 45",B
+"The answer is C.
+A 25",C
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is D.
+A 45",D
+"The answer is B.
+A 35",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 25",C
+"The answer is B.
+A 35",B
+"The answer is A.
+A 35",A
+"The answer is D.
+A 45",D
+"The answer is B.
+A 35",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 25",C
+"The answer is D.
+A 45",D
+"The answer is B.
+A 35",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is A.
+A 45",A
+"The answer is A.
+A 45",A
+"The answer is A.
+A 45",A
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is A.
+A 45",A
+"The answer is A.
+A 35",A
+"The answer is A.
+A 35",A
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is A.
+A 35",A
+"The answer is B.
+A 45",B
+"The answer is C.
+A 65",C
+"The answer is D.
+A 25",D
+"The answer is D.
+A 45",D
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is A.
+A 35",A
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 65",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 25",C
+"The answer is C.
+A 35",C
+"The answer is B.
+A 25",B
+"The answer is A.
+A 35",A
+"The answer is B.
+A 45",B
+"The answer is B.
+A 35",B
+"The answer is D.
+A 45",D
+"The answer is C.
+A 45",C
+The answer is D. 2 sets of blood,D
+"The answer is B.
+A 40",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is A.
+A 25",A
+"The answer is C.
+A 45",C
+"The answer is A.
+A 35",A
+"The answer is C.
+A 45",C
+"The answer is D.
+A 40",D
+The answer is B.,B
+"The answer is B.
+A 25",B
+"The answer is C.
+A 35",C
+"The answer is B.
+A 45",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 35",B
+"The answer is C.
+A 25",C
+"The answer is C.
+A 45",C
+"The answer is B.
+A 35",B
+"The answer is C.
+A 35",C
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is C.
+A 40",C
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 25",B
+"The answer is C.
+A 35",C
+"The answer is D.
+A 45",D
+"The answer is C.
+A 25",C
+"The answer is A.
+A 45",A
+"The answer is B.
+A 65",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 25",B
+"The answer is C.
+A 25",C
+"The answer is D.
+A 45",D
+"The answer is C.
+A 45",C
+"The answer is A.
+A 35",A
+"The answer is B.
+A 25",B
+"The answer is B.
+A 25",B
+"The answer is A.
+A 35",A
+"The answer is B.
+A 45",B
+"The answer is A.
+A 35",A
+"The answer is B.
+A 35",B
+"The answer is A.
+A 35",A
+"The answer is B.
+A 45",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 45",B
+"The answer is A.
+A 45",A
+"The answer is B.
+A 45",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is B.
+A 65",B
+"The answer is B.
+A 25",B
+"The answer is C.
+A 45",C
+"The answer is B.
+A 45",B
+"The answer is B.
+A 25",B
+"The answer is B.
+A 45",B
+"The answer is C.
+A 35",C
+"The answer is B.
+A 45",B
