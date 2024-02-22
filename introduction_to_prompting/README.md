@@ -11,3 +11,7 @@ Run ```pip install -r requirements.txt``` to download the required packages.
 4. The ```run_inference_gpt.ipynb``` contains code for processing the dataset using GPT-3.5.
 5. All outputs are dumped after running inference.
 6. The subsampled test set and few-shot prompts are in the artefacts folder. They can be moved to the same folder as the notebook for running the code.
+7. The five-shot prompt is provided in the ``helpers.py`` file. The prompt is borrowed from Google's MedPALM paper [1].
+
+## References
+[1] Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., … & Natarajan, V. (2023). Large language models encode clinical knowledge. Nature, 620(7972), 172–180.
