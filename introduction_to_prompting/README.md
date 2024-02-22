@@ -1,3 +1,5 @@
+An Introduction to Prompting for LLMs [[Blog Article](https://medium.com/@anand.subu10/an-introduction-to-prompting-for-llms-61d36aec2048)]
+
 ## Setting up the environment
 
 This code was tested in a python 3.9 runtime. 
