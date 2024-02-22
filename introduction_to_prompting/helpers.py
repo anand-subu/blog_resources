@@ -131,6 +131,7 @@ def build_zero_shot_prompt(system_prompt, question):
     Builds the zero-shot prompt.
 
     Args:
+        system_prompt (str): Task Instruction for the LLM
         content (dict): The content for which to create a query, formatted as
             required by `create_query`.
 
@@ -145,9 +146,10 @@ def build_zero_shot_prompt(system_prompt, question):
 
 def build_few_shot_prompt(system_prompt, content, few_shot_examples):
     """
-    Builds the few-shot prompt for the GPT API using provided examples.
+    Builds the few-shot prompt using provided examples.
 
     Args:
+        system_prompt (str): Task description for the LLM
         content (dict): The content for which to create a query, similar to the
             structure required by `create_query`.
         few_shot_examples (list of dict): Examples to simulate a hypothetical
