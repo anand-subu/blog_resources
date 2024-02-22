@@ -1,0 +1,608 @@
+Generated Answer,Extracted Choice
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with fever, headache, rash, joint pain, and thrombocytopenia is consistent with Dengue fever. The laboratory findings of leukopenia and thrombocytopenia support this diagnosis.
+Answer: (B) Dengue fever",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's hypertension, hypokalemia, and metabolic alkalosis suggest primary hyperaldosteronism, which is characterized by aldosterone excess.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of diethylstilbestrol exposure in utero increases the risk of clear cell adenocarcinoma of the vagina. This type of cancer is associated with maternal use of diethylstilbestrol during pregnancy.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The characteristics described, including gram-positive cocci in clusters, resistance to dicloxacillin, and failure to improve with antibiotic therapy, suggest the ability to cleave β-lactam rings, which is a mechanism of resistance commonly seen in Staphylococcus aureus.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with hepatic encephalopathy, which is characterized by confusion, asterixis, and liver dysfunction. The best initial test to confirm the diagnosis is elevated ammonia levels, not mentioned in the options. Hepatic encephalopathy is not a diagnosis of exclusion, can occur in patients with liver dysfunction, and EEG typically shows diffuse slowing rather than focal abnormalities.
+Answer: None of the options provided are correct",o
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and physical examination findings suggest adrenal insufficiency, specifically primary adrenal insufficiency or Addison's disease. The next best step in the management of this patient is to order an ACTH stimulation test to confirm the diagnosis.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Given the patient's history of smoking, the painless lesion on the lower lip is most likely to be Squamous cell carcinoma, which is commonly associated with tobacco use.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms are suggestive of fibromyalgia, which is commonly treated with Amitriptyline, a tricyclic antidepressant that can help with pain, fatigue, and sleep disturbances.
+Answer: (C) Amitriptyline",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The left C5 hemicord lesion will most likely result in contralateral corticospinal tract involvement, leading to weakness on the opposite side of the body.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The sudden onset of symptoms, auditory hallucinations, and the patient's behavior suggest a first episode of psychosis. Among the options, affective symptoms are a predictor of good prognosis in psychosis.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with abdominal pain, hemodynamic instability, and evidence of hemoperitoneum on sonography suggests intra-abdominal bleeding. In this scenario, the best next step would be to proceed with an exploratory laparotomy to identify and control the source of bleeding.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of dull, constant back pain that is worse at night, along with a history of lung cancer, raises suspicion for metastatic disease. The most likely imaging finding in this scenario would be lytic lesions of the lumbar spine, which are indicative of metastatic bone involvement.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Metronidazole can inhibit aldehyde dehydrogenase, leading to the accumulation of acetaldehyde when alcohol is consumed. This accumulation of acetaldehyde causes the symptoms described.
+Answer: (A) Acetaldehyde",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The absence of the sacrum and lumbar vertebrae, along with the other findings, suggests the condition is Caudal Regression Syndrome. Maternal diabetes is the strongest predisposing factor for this condition.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with alcohol-related gastrointestinal bleeding leading to hypovolemic shock. In this scenario, the most likely decreased parameter compared to a healthy adult would be systemic vascular resistance due to vasodilation in response to hypovolemia.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with hereditary spherocytosis, which is characterized by spherocytes on blood smear due to the loss of membrane surface area. 
+Answer: (C) Spherocytes",C
+"Explanation: We refer to Wikipedia articles on medicine for help. A whistling noise during respiration after rhinoplasty is most likely due to a septal perforation caused by a septal hematoma. This perforation can create turbulent airflow and produce the whistling sound.
+Answer: (B)",B
+"Explanation: In statistical hypothesis testing, a Type 1 error occurs when the null hypothesis is true, but it is incorrectly rejected. In this context, if the authors had encountered a Type 1 error, it would mean that they incorrectly concluded that mepolizumab significantly reduced asthma exacerbations and improved asthma control when, in fact, it did not. Therefore, the correct statement is:
+(A) A type 1 error occurs when the null hypothesis is true but is rejected in error.",
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described, including lip smacking, pursing, and excessive blinking, are characteristic of tardive dyskinesia, which is a side effect of long-term antipsychotic medication use, such as haloperidol.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The child's presentation is concerning for physiological genu varum, which is common in toddlers and usually resolves by age 3. The appropriate next step is reassurance and follow-up.
+Answer: (B) Reassurance and follow-up",B
+"Explanation: We refer to Wikipedia articles on medicine for help. High-dose niacin can cause flushing as a side effect, which is mediated by the release of prostaglandins. Aspirin is often recommended to reduce this side effect.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The medication described is nitroprusside, which causes vasodilation by increasing cGMP in vascular smooth muscle. This would lead to decreased systemic vascular resistance and decreased afterload, resulting in decreased left ventricular end-diastolic pressure and decreased pulmonary capillary wedge pressure.
+Answer: (D) Decreased pulmonary capillary wedge pressure",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Cilostazol is a phosphodiesterase inhibitor, which helps in vasodilation and antiplatelet effects, improving symptoms in peripheral artery disease.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of pain traveling down the leg, described as ""electrical,"" are suggestive of sciatica. The straight leg raise test is commonly used to confirm the diagnosis of sciatica.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Since the woman's brother has the disease, it is most likely an autosomal recessive disorder. In autosomal recessive disorders, both parents are carriers. Therefore, the woman has a 50% chance of being a carrier.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with muscle rigidity and hyperthermia after a history of belligerent behavior and unconsciousness suggests a diagnosis of malignant hyperthermia. The best next step in management for malignant hyperthermia is to administer dantrolene, which is a muscle relaxant that acts on the sarcoplasmic reticulum to prevent calcium release and treat the hypermetabolic state.
+Answer: (B) Dant",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The mid-systolic murmur radiating to the carotids suggests aortic stenosis. When the patient stands up, there will be a reduction in diastolic filling time due to decreased venous return.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Given the patient's presentation with hip pain and suspicion of sarcoidosis, the most sensitive test for this condition would be an MRI of the hip, as it can provide detailed images of soft tissues and bones, helping to identify any abnormalities.
+Answer: (A) MRI of the hip",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is hypoxic with an oxygen saturation of 73% despite being on a non-rebreather mask with 100% FiO2. The next best step in management would be to reintubate the patient to secure the airway and provide adequate oxygenation.
+Answer: (C) Reintubate",C
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the options, Peroxisome proliferator-activated receptor gamma (PPAR-gamma) is a nuclear receptor that plays a key role in regulating glucose and lipid metabolism and can increase insulin sensitivity.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including arm pain, gastrointestinal issues, and a history of multiple ER visits with similar complaints, suggest somatization disorder, where psychological distress manifests as physical symptoms.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is presenting with epistaxis (nosebleed). The initial management for anterior epistaxis is to apply pressure by squeezing the nostrils manually for 10 minutes with the head elevated.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has a positive RPR and FTA-ABS, indicating syphilis. Since there is no evidence of neurosyphilis, the appropriate treatment is to treat with three weekly injections of penicillin and obtain titers in 3 months.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with bulimia nervosa, which can lead to erosion of tooth enamel due to repeated exposure to gastric acid during purging episodes.
+Answer: (C) Erosion of tooth enamel",C
+"Explanation: We refer to Wikipedia articles on medicine for help. According to ACGME guidelines, residents can work up to 80 hours per week, averaged over a four-week period, including all in-house call activities and external moonlighting. The resident in question is currently working 70 hours per week (60 hours in residency + 10 hours external), which is within the limit of 80 hours per week.
+Answer: (D) He may work up to 20 more hours",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The drug administered one week before the menstrual cycle suggests it could be Clomiphene, commonly used to treat infertility in women with polycystic ovarian syndrome. If administered differently, it can also be used to treat prostate cancer.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and lab values suggest hypercalcemia, which can be caused by hyperparathyroidism. The best long-term prophylaxis for hyperparathyroidism is surgical removal of the parathyroid gland causing the issue.
+Answer: None of the options provided are the best long-term prophylaxis for hyperparathyroidism.",o
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described suggest physiological jaundice, which is common in newborns due to the breakdown of fetal red blood cells. The best treatment for physiological jaundice in a newborn is to continue normal breastfeeding, as this helps with the excretion of bilirubin.
+Answer: (D) Continue normal breastfeeding",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and laboratory findings suggest a pheochromocytoma, which is commonly associated with Multiple Endocrine Neoplasia (MEN) 2A.
+Answer: (B) Multiple endocrine neoplasia (MEN) 2A",B
+"Explanation: We refer to Wikipedia articles on medicine for help. An odds ratio of 2.1 with a confidence interval of 0.9–9.7 indicates that the association between low education and the risk of MI is not statistically significant, as the confidence interval includes 1. Therefore, the correct inference is that the association is not statistically significant, and low education is not a risk factor.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The widened mediastinum and the mechanism of injury suggest thoracic aortic rupture.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are consistent with right-sided heart failure, leading to an increase in capillary pressure, which causes fluid to leak out into the interstitial space, resulting in lower extremity edema.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The presentation suggests a molar pregnancy, which is a type of gestational trophoblastic disease. The genotype of the substance aspirated by dilation and evacuation in a complete mole is 46XX.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Thalassemia intermedia is characterized by microcytic red blood cells. This is due to the decreased translation of Beta-globin mRNA, leading to abnormal hemoglobin production.
+Answer: (C) Microcytic red blood cells",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The vascular structure most likely to be injured at the level of L3 is the Inferior vena cava.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and positive anti-Ro and anti-La autoantibodies suggest Sjögren's syndrome. Patients with Sjögren's syndrome have an increased risk of developing Non-Hodgkin lymphoma.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including heart palpitations, chest pain, tremor, and signs of hyperthyroidism, suggest a diagnosis of atrial fibrillation with hyperthyroidism. Propranolol is a beta-blocker that can help control heart rate and symptoms in this case.
+Answer: (A) Propranolol",A
+"Explanation: We refer to Wikipedia articles on medicine for help. Conjugation with a protein carrier provides effective protection to infants by enhancing the immune response, especially in young children who have an immature immune system.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Given the patient's history of diabetes and hypertension, the most likely medication added to his regimen is Hydrochlorothiazide, a diuretic commonly used to treat hypertension. Lower extremity swelling can be a side effect of this medication.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is experiencing symptoms of hypoglycemia during sleep. The optimal intervention for this patient would be to reduce the daily insulin dose to prevent further episodes of hypoglycemia.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Decreased renal blood flow due to renal artery occlusion will lead to activation of the renin-angiotensin-aldosterone system. This will cause hyperplasia of juxtaglomerular cells.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of the infant's condition with loops of intestine protruding out of the abdomen on the right side is consistent with gastroschisis, a congenital malformation. The most appropriate next step in management for gastroschisis is to transfer the newborn for immediate surgery to repair the defect.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Vincristine acts by inhibiting beta-tubulin polymerization, leading to disruption of microtubule formation and function. This mechanism is associated with peripheral neuropathy.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of mental retardation, diabetes, and the presence of symmetric swelling and deformities of the hands suggest that the most likely risk factor predisposing the patient to this condition is Down syndrome.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including bilateral knee pain, morning stiffness, fatigue, and family history of RA, suggest the possibility of rheumatoid arthritis. Excess weight can contribute to joint pain, but given the family history and other symptoms, RA is a more likely cause.
+Answer: (B) Excess weight",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has hepatitis C, and the treatment includes interferon-α, which inhibits viral replication. Among the options, inhibition of DNA-dependent RNA polymerase is most likely to be the mechanism of action of the additional drug in combination with interferon-α.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and the pathogen that can be cultured on Sabouraud agar suggest Cryptococcus neoformans. Therefore, the most likely additional finding in the CSF would be a positive latex agglutination test for Cryptococcal antigen.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. A LOD score greater than 3 indicates strong evidence for linkage, suggesting that the two loci are closely linked.
+Answer: (C) LOD Score > 3",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is experiencing an anaphylactic reaction to the bee sting. The next best step in management would be to administer dexamethasone, a corticosteroid that helps reduce inflammation and prevent late-phase allergic reactions.
+Answer: (C) Administer dexamethasone",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, lab values, and urinalysis findings are indicative of Goodpasture syndrome, an autoimmune disease affecting the lungs and kidneys. The most appropriate treatment for this patient would be a combination of Methylprednisolone and cyclophosphamide to suppress the immune system and reduce inflammation.
+Answer: (B) Methylprednisolone and cyclophosphamide",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has multiple injuries, including decreased breath sounds over the right lung base, suggesting a possible pneumothorax. Therefore, the most appropriate next step in management would be the insertion of an intercostal chest tube to manage the pneumothorax.
+Answer: (A) Insertion of intercostal chest tube",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with infective endocarditis, which is commonly associated with underlying conditions such as malignancy. The cardiac findings in this patient are most likely due to the embolic phenomenon from the malignant colonic neoplasm.
+Answer: (B) Malignant colonic neoplasm",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and findings suggest Hodgkin lymphoma. In Hodgkin lymphoma, cells typically stain positive for CD15 and CD30.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and findings are consistent with a hiatal hernia. Lifestyle modifications are usually the first-line treatment for hiatal hernia. These include weight loss, avoiding large meals, not lying down after eating, and elevating the head of the bed. Therefore, the most appropriate next step in the management of this patient's underlying condition would be:
+Answer: (A) Lifestyle modification",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has shortness of breath and reduced breath sounds over the left lung base after surgery, which is suggestive of atelectasis, a common complication post-surgery.
+Answer: (D) Atelectasis",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of confluent scaly patches, plaques, and generalized erythroderma along with a solid skin lesion suggests a malignancy arising from cutaneous T cells, which is characteristic of cutaneous T-cell lymphoma.
+Answer: (C)",C
+"Explanation: To calculate the total volume of gas in the airways and lungs that does not participate in gas exchange, we need to add the residual volume (RV) and the sum of upper airway volume and conducting airway volume.
+
+RV + Upper airway volume + Conducting airway volume
+= 1,000 mL + 100 mL + 125 mL
+= 1,225 mL
+
+Therefore, the total volume of gas in the airways and lungs that does not participate in",
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and examination findings are consistent with peritonsillar abscess, which is best managed with needle aspiration and oral clindamycin therapy.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of hypertension, soft S4 gallop, and family history of myocardial infarction suggest the need for further evaluation of her heart. Transesophageal echocardiography is a useful tool for assessing cardiac function and structure, especially in patients with unclear findings on routine examination.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the options, a comprehensive foot exam every year is recommended for patients with diabetes to prevent complications related to diabetic neuropathy and peripheral vascular disease.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of alcohol consumption and industrial solvent exposure, along with symptoms of ataxia, tremors, and impaired rapid alternating movements, suggest chronic alcohol abuse leading to cerebellar degeneration.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of chronic, widespread pain, along with point tenderness, are suggestive of fibromyalgia. The best treatment option for fibromyalgia is low-dose antidepressants such as paroxetine, which can help with pain and sleep issues.
+Answer: (C) Paroxetine",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with worsening abdominal pain, fever, jaundice, and gallstones on ultrasound suggests acute cholangitis. The patient's deteriorating condition with altered mental status and vital sign changes indicates severe sepsis. The most appropriate next step in management is urgent biliary decompression, which can be achieved with ERCP.
+Answer: (A) Endoscopic retrograde cholangiopancreatography (ERCP)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of white plaques on the tongue and mouth that reveal a characteristic morphology after being treated with KOH suggests oral thrush, which is commonly caused by Candida albicans. Among the options, delayed separation of the umbilical cord is associated with leukocyte adhesion deficiency, hypoparathyroidism is associated with DiGeorge syndrome, partial albinism is associated with Chediak-Higashi syndrome, and throm",
+"Explanation: We refer to Wikipedia articles on medicine for help. During a thyroidectomy, the recurrent laryngeal nerve is at risk of injury due to its close proximity to the thyroid gland. Hoarseness is a common sign of recurrent laryngeal nerve injury.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The normal complete blood count and prolonged aPTT suggest a factor deficiency, which is characteristic of Hemophilia A.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's labs show metabolic acidosis with respiratory compensation (low HCO3- and low pCO2). Among the options, diarrhea is the most likely cause of the metabolic acidosis seen in this patient.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including shortness of breath, cough, bilateral ankle pain, and her travel history to Arizona and Nigeria, suggest Histoplasmosis, which is a fungal infection common in these regions.
+Answer: (D) Histoplasmosis",D
+"Explanation: We refer to Wikipedia articles on medicine for help. In breast cancer, tumor stage is the most important factor in determining prognosis as it takes into account the size of the tumor, lymph node involvement, and metastasis.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of the patient's symptoms and the photomicrograph findings suggest Alzheimer's disease, which is characterized by the presence of amyloid-β plaques and neurofibrillary tangles composed of hyperphosphorylated tau protein.
+Answer: (C) Hyperphosphorylated tau",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with fever, cough, and pulmonary infiltrates after starting antiretroviral therapy is suggestive of immune reconstitution inflammatory syndrome (IRIS). In this scenario, the most appropriate initial step in treatment is to continue antitubercular therapy and antiretroviral therapy without any change.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. CD8 is a co-receptor for the T cell receptor (TCR) and binds to the major histocompatibility complex (MHC) class I molecule. This interaction helps T cells recognize antigens presented by infected cells. Among the options, the protein most likely identified binds endogenous peptides that have been transported by the TAP channel.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with Wernicke encephalopathy due to alcohol use disorder. The most appropriate initial treatment is intravenous thiamine to prevent or treat Wernicke encephalopathy.
+Answer: (A) Intravenous thiamine",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient most likely has tuberculosis and is started on anti-tuberculosis therapy. The development of a skin rash, diarrhea, and confusion suggests a vitamin B6 deficiency, which is required for dehydrogenase enzymes.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The graph shows a decrease in stomach pH at point D, which indicates an increase in stomach acid secretion. This is most likely due to increased activity of enterochromaffin-like cells, which release histamine, a potent stimulant of gastric acid secretion.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of acute-onset shortness of breath, wheezing, and diaphoresis suggest an acute asthma exacerbation. The best treatment for this condition is inhaled albuterol and oxygen to relieve bronchospasm and improve oxygenation.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and the mother's use of codeine syrup suggest neonatal abstinence syndrome (NAS). The baby is showing signs of withdrawal, and the most appropriate next step in treatment would be to provide dextrose infusion to maintain blood sugar levels and support the baby during withdrawal.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The presence of spherocytes, negative Coombs test, scleral icterus, and splenomegaly suggest hereditary spherocytosis. The most appropriate diagnostic test for hereditary spherocytosis is the Eosin-5-maleimide binding test.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are characteristic of systemic lupus erythematosus (SLE). Among the options, SLE is associated with decreased lymphocyte count.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. A large, pedunculated tumor in the left atrium is most likely a myxoma. Myxomas can embolize and cause symptoms depending on where the embolus goes. The most common complication is systemic embolization, leading to symptoms such as acute arterial occlusion.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The elevated maternal serum AFP is associated with neural tube defects. Trisomy 18 and 21 are not typically associated with elevated AFP levels.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Sodium fluoroacetate is known to form fluorocitrate in the cells of aerobic organisms. Fluorocitrate inhibits aconitase, an enzyme in the citric acid cycle, leading to the accumulation of citrate.
+Answer: (B) Citrate",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of fatigue, shortness of breath, ankle swelling, widely split S2, and ECG findings of right bundle branch block suggest right-sided heart failure. Right-sided heart failure leads to increased capillary hydrostatic pressure, causing lower extremity edema.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and the positive urine culture for gram-negative rods suggest a urinary tract infection (UTI), commonly caused by Escherichia coli. The antibiotic most commonly used to treat UTIs caused by E. coli is one that inhibits cell wall synthesis.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The ECG shows ST-segment elevation in the inferior leads II, III, and aVF, indicating an acute inferior myocardial infarction. The symptoms of nausea, shortness of breath, and lightheadedness are consistent with this diagnosis.
+Answer: (C)",C
+"Explanation: To find the mode, we look for the value that appears most frequently in the data. In this case, the respiratory rate of 32 breaths per minute appears three times, which is more frequent than any other rate.
+Answer: (B) 32 breaths per minute",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history and physical exam findings are suggestive of a possible scaphoid fracture. The scaphoid is the most commonly fractured carpal bone. Initial imaging with a radiograph of the wrist is the best next step in management to confirm the diagnosis.
+Answer: (A) Radiograph of the wrist",A
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the options, fee-for-service pays physicians a set amount of money per service provided, not per unit time for every patient under their care. Fee-for-service may incentivize physicians to increase healthcare utilization irrespective of quality.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the options, the disinfectant that oxidizes and denatures proteins is Chlorine dioxide.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms of fever, cough with green sputum, and right upper-lobe infiltrate on chest x-ray suggest a bacterial infection. Among the options, Streptococcus pneumoniae is the most likely cause of this patient's symptoms.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The presentation of a solitary nodule that is fixed to surrounding tissues is concerning for malignancy. Among the options, Follicular carcinoma or Papillary carcinoma are more likely to present this way.
+Answer: (B) Follicular carcinoma",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with a diagnosis of chancroid, which is caused by Haemophilus ducreyi. The characteristic finding in chancroid is Gram-negative rods in a ""school of fish"" formation on Gram stain.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The mischarged tRNA with valine will be incorporated into the growing peptide chain at the codons that specify for lysine. This will result in the incorporation of valine instead of lysine in the peptide chain.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are suggestive of a pulmonary embolism, which can be associated with genetic conditions like Factor V Leiden mutation. Factor V Leiden mutation is inherited in an autosomal dominant pattern.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and the progression of the disease suggest rabies, which spreads to the CNS via retrograde migration up peripheral nerve axons.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Confusion in this elderly patient is most likely due to the anticholinergic effects of oxybutynin, which is used for incontinence. Anticholinergic medications are known to cause confusion in the elderly.
+Answer: (B) Oxybutynin",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with swelling and pain in the right testicle, along with a history of fever and facial swelling, is suggestive of mumps orchitis. Mumps is preventable by a live attenuated vaccine.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The presence of calcium oxalate crystals in the urine suggests ethylene glycol poisoning, which leads to the formation of oxalate crystals. This condition can cause acute kidney injury and result in a non-anion gap metabolic acidosis.
+Answer: (B) Non-anion gap metabolic acidosis",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with jaundice, pale stools, and elevated direct bilirubin levels suggests biliary atresia, a condition where bile flow from the liver to the gallbladder is blocked. This condition typically presents in the first few weeks to months of life with jaundice and pale stools.
+Answer: (B) Biliary atresia",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Betamethasone is a corticosteroid that stimulates the maturation of fetal lungs by promoting the production of surfactant by type II pneumocytes.
+Answer: (C) Type II pneumocytes",C
+"Explanation: We refer to Wikipedia articles on medicine for help. Blotting techniques are used to detect nucleic acids (Northern blot), DNA (Southern blot), and proteins (Western blot). Since HIF-1a is a protein, the researcher should perform a Western blot to detect HIF-1a in RCC under normoxic conditions.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are consistent with scurvy, which is caused by a deficiency in Vitamin C. Vitamin C is essential for the synthesis of collagen, which is primarily composed of proline and lysine.
+Answer: (B) Proline",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The presence of glucose in the urine (glucosuria) is due to the failure of secondary active transporters to completely reabsorb glucose in the renal tubules, as seen in uncontrolled diabetes mellitus.
+Answer: (B) Secondary active transporters fail to completely reabsorb glucose in the renal tubules",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and examination findings are consistent with a stress fracture of the third metatarsal. Rest is the mainstay of treatment for stress fractures, so the most appropriate next step in management would be to advise rest and acetaminophen for pain relief.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and stool microscopy findings suggest Giardiasis, which can lead to malabsorption and malnutrition. Malnutrition can lead to a decrease in immune function, increasing the risk of Non-Hodgkin lymphoma.
+Answer: (C) Non-Hodgkin lymphoma",C
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the options, the patient should receive a Tetanus, diphtheria, and acellular pertussis booster (Tdap) vaccine as it is recommended every 10 years for adults. The other vaccines are not indicated based on the patient's history.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has developed a fever and purulent cough with a new consolidation on chest radiography, which is indicative of pneumonia. The most common cause of community-acquired pneumonia is Streptococcus pneumoniae.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The high serum calcium concentration and low PTH concentration suggest hypercalcemia due to a PTH-related peptide produced by malignant cells. This is a common finding in certain cancers.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of annual colonoscopies since a young age due to a family history of colon issues suggests an autosomal dominant inheritance pattern, as the disease is likely to be hereditary nonpolyposis colorectal cancer (HNPCC) or Lynch syndrome.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The influx of calcium into the presynaptic nerve terminal is a crucial step that triggers the release of neurotransmitters, including glutamate.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has osteoporosis with a T-score of -3.2 SDs in the hip. Among the options, Alendronate is a bisphosphonate commonly used to treat osteoporosis.
+Answer: (A) Alendronate",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described, including the enamel erosion, bowed legs, and beading of the ribs, are characteristic of Vitamin C deficiency, which is a cofactor for prolyl and lysyl hydroxylase enzymes involved in collagen synthesis.
+Answer: (A) Deficiency of cofactor for prolyl and lysyl hydroxylase",A
+"Explanation: We refer to Wikipedia articles on medicine for help. Drug X blocks the androgen receptor, which is similar to the mechanism of action of Flutamide, a nonsteroidal antiandrogen used in the treatment of prostate cancer.
+Answer: (C) Flutamide",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of right flank pain, abdominal tenderness, and ultrasound findings of dilation of the right ureter and renal pelvis are indicative of a kidney stone causing obstructive uropathy.
+Answer: None of the options provided are the most likely underlying cause.",o
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of smoking, symptoms, and physical examination findings are suggestive of pulmonary fibrosis. Excess collagen deposition in the extracellular matrix of the lung is characteristic of pulmonary fibrosis.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The scenario describes a patient with burns over 45% of her body who later develops tarry black stools, which are indicative of gastrointestinal bleeding. The most likely underlying cause in this context is decreased gastric blood flow leading to ischemic injury and subsequent bleeding.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. In a patient with diarrhea and vomiting, there is a loss of fluid and electrolytes. Vasoactive intestinal peptide (VIP) is known to stimulate secretion of water and electrolytes in the intestines.
+Answer: (D) Vasoactive intestinal peptide",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms are suggestive of Restless Legs Syndrome (RLS). Pramipexole is a medication commonly used to treat RLS.
+Answer: (B) Pramipexole",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is experiencing a missed abortion, which is a nonviable pregnancy. The most appropriate next step in management is Dilation and curettage (C) to remove the nonviable pregnancy tissue.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of shortness of breath when lying down, palpitations, difficulty in digestion, regurgitation, and dysphagia along with physical examination findings of jugular vein distention, pitting edema, basilar crackles, and S3 gallop suggest congestive heart failure. This is commonly seen in hypertensive changes.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms of wheezing and dyspnea along with eosinophilia and positive skin tests for allergens suggest allergic asthma. The most effective treatment for this patient would be a Beta-2 antagonist, which helps in bronchodilation and is commonly used in the treatment of asthma.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of heavy, red lungs with the histology shown in Image A suggests interstitial edema, which is consistent with the clinical presentation of respiratory distress and crackles on physical examination.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The presence of bright red blood in the stool, distended abdomen with shifting dullness, and purple spider web-like lesions suggest cirrhosis with esophageal varices. Esophageal varices drain into the superior rectal vein.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Given the clinical presentation of a 3-day-old boy with seizures, systemic hypotension, bradycardia, hypoventilation, altered level of consciousness, hypotonia, bulging anterior fontanelle, and cyanosis, the best next step in management would be Cranial ultrasonography to evaluate for intracranial hemorrhage, which is common in premature infants.
+Answer: (B) Cranial ultrason",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of sensorineural hearing loss are likely due to the drug's ototoxic effects. Among the options, the most common cause of ototoxicity is through the generation of free radicals.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. Given the patient's history of primary hyperparathyroidism and the need for surgery, the medication that should be given preoperatively to prevent a hypertensive emergency intraoperatively is Phenoxybenzamine, which is an alpha-blocker used to manage hypertension in patients with pheochromocytoma.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The sudden-onset right-sided body numbness and decreased sensation to light pinprick and temperature on the right side of the face and body suggest a lateral medulla infarction, also known as Wallenberg syndrome.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and laboratory findings are consistent with Vitamin B12 deficiency, which can lead to megaloblastic anemia, neurological symptoms, and psychiatric manifestations.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms are consistent with conduction aphasia, which is typically caused by damage to the arcuate fasciculus. This structure connects Broca's area in the inferior frontal gyrus with Wernicke's area in the superior temporal gyrus.
+Answer: (A) Arcuate fasciculus",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is in septic shock with persistent hypotension. The most appropriate treatment in this scenario is to continue treating the underlying illness, which is septic shock from bacteremia.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described, including back pain, difficulty walking upstairs, incontinence, bilateral lower limb weakness, and decreased sensation, are indicative of cauda equina syndrome. Among the options, this presentation is most consistent with spinal metastasis.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of the injury and the physical exam findings suggest a posterior cruciate ligament (PCL) injury. The PCL runs posteriorly from the medial femoral condyle.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described suggest Kallmann syndrome, which is characterized by anosmia (inability to smell) and hypogonadotropic hypogonadism (delayed puberty). Kallmann syndrome is caused by impaired migration of GnRH neurons.
+Answer: (C) Impaired migration of GnRH neurons",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of smoking, occupational exposure, and pulmonary function test results are indicative of Chronic Obstructive Pulmonary Disease (COPD). The decreased FEV1/FVC ratio and FEV1 values, along with the increased lung volumes, support this diagnosis.
+Answer: (D) Chronic obstructive pulmonary disease",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Ipratropium bromide is an anticholinergic medication that blocks the action of acetylcholine at muscarinic receptors in the bronchial smooth muscle, leading to bronchodilation. The phosphoinositol system is involved in the signaling pathway of muscarinic receptors.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with hypotension, tachycardia, hypoxia, and signs of tension pneumothorax (jugular venous distention, decreased breath sounds, hyperresonance) requires immediate intervention. Needle decompression is the initial management for tension pneumothorax to relieve the pressure and improve hemodynamics.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The risk factors for a post-term pregnancy include meconium aspiration syndrome due to fetal distress. Meconium aspiration can lead to respiratory distress in the newborn.
+Answer: (C) Meconium aspiration",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, laboratory findings, and lack of suppression of cortisol levels with high-dose dexamethasone suggest Cushing's syndrome. The next step in management for confirming the etiology of Cushing's syndrome is Inferior petrosal sinus sampling.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Masturbation is a normal behavior in adolescents. The most appropriate next step in management is to reassure the mother and provide education on normal adolescent development.
+Answer: (C) Reassure the mother",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described suggest a deficiency in tetrahydrobiopterin (BH4), which is essential for the synthesis of dopamine, norepinephrine, epinephrine, and serotonin. Supplementation of tetrahydrobiopterin is crucial in this case.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with syndrome of inappropriate antidiuretic hormone secretion (SIADH) due to the low serum sodium level. In SIADH, the serum osmolality is decreased, urine sodium is increased, and serum aldosterone is decreased.
+Answer: (C) ↓ ↑ ↑",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and lab findings suggest pernicious anemia, which is caused by vitamin B12 deficiency. This deficiency leads to neurological symptoms like decreased position sense and vibratory sensation loss. The most likely cause is anti-intrinsic factor antibodies, which are seen in pernicious anemia.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms are consistent with primary dysmenorrhea, which is best managed initially with NSAIDs for pain relief.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described in the scenario are consistent with opioid withdrawal. Clonidine is commonly used to manage symptoms of opioid withdrawal, including diarrhea, malaise, and autonomic symptoms.
+Answer: (A) Clonidine",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described in the patient are consistent with neonatal tetanus, which is caused by the neurotoxin produced by Clostridium tetani. This neurotoxin inhibits the release of inhibitory neurotransmitters, such as glycine and GABA, leading to unopposed muscle contraction and spasms.
+Answer: (C) Decreased release of glycine",C
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the options, Chloroquine is the most suitable drug for pre-exposure prophylaxis against malaria in pregnancy.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with blue-grayish discoloration of the sclerae, joint hypermobility, decreased tone, and an incomplete fracture of the right tibial diaphysis suggests a diagnosis of Osteogenesis Imperfecta (OI), which is characterized by insufficient production of procollagen type 1.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are consistent with Trichomonas vaginalis infection, which presents with a yellow-green, malodorous discharge. The motile organisms seen on wet mount are characteristic of Trichomonas vaginalis.
+Answer: (C) Trichomonas vaginalis",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including pruritic lesions, iron deficiency, lactose intolerance, and elevated IgA tissue transglutaminase titer, are indicative of Celiac disease, which is an immune reaction to eating gluten.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Gram-positive anaerobic rods are most likely Clostridium difficile, which causes antibiotic-associated diarrhea. The most effective agent for preventing transmission of C. difficile is a chlorine-based solution.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is in active labor and has lost a lot of blood, indicating a high-risk situation. In such cases, the patient should be stabilized and transferred to a more capable center. The most appropriate next step in management is to transfer the patient only if the medical benefits of transfer outweigh the risks.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with blood in the urine and cystoscopy findings suggest hemorrhagic cystitis, a known complication of ifosfamide therapy. Mesna is a drug used to prevent ifosfamide-induced hemorrhagic cystitis.
+Answer: (B) Mesna",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Ketamine is known to reduce the risk of developing postoperative hyperalgesia in chronic opioid abusers.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and examination findings are suggestive of osteoarthritis. The most likely finding on imaging of the left knee in osteoarthritis would be osteophytes with joint-space narrowing on x-ray.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, CD4 count, and blood culture results suggest disseminated Mycobacterium avium complex (MAC) infection. The most appropriate pharmacotherapy for this condition is Azithromycin and ethambutol.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient presents with symptoms of pneumonia and sepsis. The endotracheal aspirate Gram stain showing gram-negative rods suggests Pseudomonas aeruginosa, which is commonly seen in patients with chronic lung disease. The most appropriate pharmacotherapy for Pseudomonas aeruginosa pneumonia is a combination of an antipseudomonal beta-lactam (such as cefepime) and an antipseudomonal",
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with gynecomastia, testicular mass, and history of testicular trauma suggests a Leydig cell tumor. Klinefelter syndrome would present with other features like tall stature, small testes, and infertility.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and the recent thyroidectomy suggest hypocalcemia, which can lead to QT prolongation on ECG.
+Answer: (B) QT prolongation",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of sudden onset of severe pain and redness in the eyes, along with lower back pain, heel pain, and difficulty seeing properly, are suggestive of acute anterior uveitis, which is commonly associated with ankylosing spondylitis. The increased ESR and CRP levels further support this diagnosis.
+Answer: (B) Malabsorption",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The lowest oxygen content is found in the pulmonary artery, as it carries deoxygenated blood from the right ventricle of the heart to the lungs for oxygenation.
+Answer: (C) Pulmonary artery",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The most appropriate initial response by the physician should express empathy and acknowledge the patient's loss and emotional distress. Option (A) is the most empathetic and supportive response.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The presentation of a foot ulcer with purulent drainage and a slightly fruity smell, along with a history of puncture wound, suggests an infection with Pseudomonas aeruginosa, which is a Gram-negative bacilli.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including an enlarged, hard, tender, and asymmetric thyroid with pain on swallowing, along with hypothyroidism (high TSH, low T4), suggest subacute granulomatous thyroiditis, also known as De Quervain thyroiditis. This condition can present with painful thyroid enlargement and transient hyperthyroidism followed by hypothyroidism.
+Answer: (D) Silent thyroiditis",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including fatigue, headache, abdominal pain, and conjunctival pallor, along with the peripheral blood smear findings of red blood cells with increased zones of central pallor and anisocytosis, are indicative of iron deficiency anemia.
+Answer: (D) Iron deficiency",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the options, Rotavirus is known for its segmented genome and reassortment capability, which allows it to create new strains through genetic exchange.
+Answer: (C) Rotavirus",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The clinical presentation and laboratory findings are consistent with nephrotic syndrome. In children, the most common cause of nephrotic syndrome is minimal change disease, which typically shows normal light microscopy findings.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms are suggestive of ureteral injury, which can occur during ligation of the uterine artery due to its close proximity to the ureter.
+Answer: (D) Uterine artery",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is likely suffering from an opioid overdose, given the presentation and the presence of miosis. Naloxone is a μ receptor antagonist and is used to reverse opioid overdose.
+Answer: (A) μ, κ, and δ receptor antagonist",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history and normal physical examination suggest primary nocturnal enuresis. The first-line treatment for primary nocturnal enuresis is reassurance and the use of an enuresis alarm.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of white pseudomembranes that can be wiped away to reveal erythematous mucosa in the mouth is characteristic of oral thrush, which is caused by Candida albicans. The most appropriate medication for this patient would be one that disrupts cell membrane permeability, which is the mechanism of action of medications used to treat fungal infections like oral thrush.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The cell indicated by the arrow is an eosinophil, which is typically associated with the action of leukotriene D4.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms of poor feeding, increased tone, clenched jaw, and clenched hands are consistent with infant botulism caused by Clostridium botulinum.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are characteristic of Creutzfeldt-Jakob disease (CJD), a prion disease. The conversion of a protein from an alpha-helix to a beta-pleated form, which resists degradation, is a key feature of prion diseases.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The presentation of a tender swelling at the proximal tibia with fragmentation of the tibial tuberosity is consistent with Osgood-Schlatter disease, which is an overuse injury common in active adolescents. The most appropriate next step in management is conservative treatment, which includes rest, ice, and activity modification. Therefore, the most appropriate next step is not listed among the options provided.
+Answer: The most appropriate next step is",h
+"Explanation: We refer to Wikipedia articles on medicine for help. The medication with mucoactive and anti-oxidative properties that helps in lung conditions is likely to reduce airway surface tension, making it easier for the patient to breathe.
+Answer: (D) Reduction in airway surface tension",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of constipation and fatigue suggest hypokalemia, which can be caused by thiazide diuretics used to manage hypertension. Thiazide diuretics act on the Na+/Cl- cotransporter in the distal convoluted tubule.
+Answer: (C) Na+/Cl- cotransporter in the membranes of epithelial cells in the distal convoluted tubule",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and MRI findings suggest multiple sclerosis. In multiple sclerosis, oligoclonal IgG bands on electrophoresis are commonly found in the cerebrospinal fluid.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of solid food getting stuck behind the sternum, along with a history of asthma and eczema, suggest Eosinophilic esophagitis, which is commonly associated with allergic conditions.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The drug that decreases the production of mevalonate is a statin. Statins can lead to an increase in creatine kinase concentration as a potential adverse effect.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of ulcerative colitis and positive pANCA test suggest primary sclerosing cholangitis (PSC). The characteristic findings on liver biopsy in PSC include periductal concentric scarring and fibrosis.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are indicative of optic neuritis, which is commonly associated with multiple sclerosis. Therefore, specific additional history should be obtained regarding sensory loss, as this can be a symptom of multiple sclerosis.
+Answer: (D) Sensory loss",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with fatigue, splenomegaly, and pancytopenia suggests a diagnosis of myelodysplastic syndrome (MDS). In MDS, the bone marrow is often hypocellular and difficult to aspirate, leading to a dry tap. A peripheral blood smear in MDS may show ringed sideroblasts, which are cells that stain with Prussian Blue due to iron accumulation in the",
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are consistent with an anterior cord lesion, which typically presents with motor weakness and loss of pain and temperature sensation below the level of the lesion.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the options, only IFN-gamma is secreted by Th1 cells and is responsible for stimulating phagosome-lysosome fusion within macrophages, activating macrophages to produce mediators like NO, and leading to the formation of a tubercle during Mycobacterium tuberculosis infection.
+Answer: (C) IFN-gamma",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of acute diverticulitis, reduced urine output, and elevated serum creatinine suggest acute kidney injury (AKI). Among the options, dehydration is the most likely cause of AKI in this scenario, given the patient's history of reduced urine output and the fact that he was placed on bowel rest.
+Answer: (C) Dehydration",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and the appearance of the oral mucosa suggest oral thrush, which is a fungal infection. The most appropriate next step in management would be to treat with an antifungal medication such as Nystatin.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with a history of smoking, family history of pulmonary embolism, and positive fibrin split products suggests a diagnosis of deep vein thrombosis (DVT). Among the options, Factor V Leiden is the most common inherited risk factor for DVT.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The presence of a polyp with 75% tubular architecture indicates an adenomatous polyp, which is a precursor to colorectal cancer.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The intermittent stabbing face pain, bilateral involvement, and decreased sensation in the V2 and V3 distribution suggest trigeminal neuralgia. The weakness in the right arm and spasticity of the lower extremities with sustained clonus indicate central nervous system involvement. Multiple periventricular sclerotic plaques are characteristic of multiple sclerosis.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has a history of hepatitis C, acute pancreatitis, and now presents with fever, abdominal pain, confusion, scleral icterus, spider angiomas, and ascites. These findings are consistent with cirrhosis. The ascitic fluid analysis with a low albumin concentration and high leukocyte count with neutrophils suggests spontaneous bacterial peritonitis due to bacterial translocation.
+Answer: (C) Bacterial translocation",C
+"Explanation: We refer to Wikipedia articles on medicine for help. Combined oral contraceptive pills are known to decrease the risk of ovarian cancer. They are not associated with an increased risk of breast cancer and may slightly increase the risk of cervical cancer.
+Answer: (B) Ovarian cancer",B
+"Explanation: We refer to Wikipedia articles on medicine for help. In congenital hypothyroidism, hypotonia, umbilical hernia, and macroglossia are common signs and symptoms. Diarrhea is not typically associated with congenital hypothyroidism.
+Answer: (B) Diarrhea",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Maraviroc is a CCR5 antagonist, which blocks the CCR5 receptor on CD4 T cells. This prevents the entry of HIV into the cells.
+Answer: (A) gp120",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and signs described are consistent with infectious mononucleosis, commonly caused by the Epstein-Barr virus. The best management for this condition is bed rest and activity limitation to prevent splenic rupture due to splenomegaly.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The episodic pelvic pain before menstrual periods suggests dysmenorrhea, which is commonly caused by endometrial sloughing and uterine contractions mediated by prostaglandins.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of diabetes, hypertension, and previous strokes suggests vascular dementia, which is characterized by cognitive decline due to cerebrovascular disease.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of smoking, symptoms of shortness of breath, cough, and wheezing, along with the spirometry findings of decreased FEV1:FVC ratio and FEV1, suggest Chronic Obstructive Pulmonary Disease (COPD). The decreased DLCO is also consistent with COPD.
+Answer: (C) Chronic obstructive pulmonary disease",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is presenting with urinary retention, which requires immediate bladder decompression. Bladder catheterization is the appropriate next step to relieve the distended bladder.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including fever, greenish-yellow sputum, and difficulty breathing, suggest a COPD exacerbation with an infectious component. Antibiotics are indicated in COPD exacerbations with increased sputum purulence and worsening symptoms. Among the options, Doxycycline or Ciprofloxacin are commonly used antibiotics for COPD exacerbations.
+Answer: (A) Doxycycline",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with a stroke, likely due to sickle cell disease. Alteplase is contraindicated in patients with sickle cell disease as it can worsen their condition. Exchange transfusion is the mainstay of treatment for sickle cell disease-related strokes to reduce sickle hemoglobin levels and improve oxygen delivery to tissues.
+Answer: (B) Exchange transfusion",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The early onset of puberty in girls is associated with a risk of short stature as an adult due to premature closure of growth plates.
+Answer: (B) Short stature",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has a history of peripheral arterial disease and a bruit on auscultation of the neck, suggesting carotid artery disease. Ultrasonography of the neck is the most appropriate next step to evaluate the carotid arteries.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described, including fever, itching, vesicles, and crusted lesions, are characteristic of Chickenpox (Varicella). Measles typically presents with a high fever, cough, and conjunctivitis. Urushiol-induced dermatitis is caused by contact with poison ivy, oak, or sumac. Rubella presents with a rash that starts on the face and spreads downward.
+Answer: (C) Chicken",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms of retrosternal dullness, shortness of breath, and palpitations that occur with exertion suggest angina pectoris. Since the ECG is normal at rest, the most appropriate next step in diagnosis would be a myocardial perfusion scan under pharmacological stress to evaluate for inducible ischemia.
+Answer: (A) Myocardial perfusion scan under pharmacological stress",A
+"Explanation: We refer to Wikipedia articles on medicine for help. Gram-negative cocci in pairs suggest Neisseria meningitidis, which is known for its lipooligosaccharides (LOS) as a major virulence factor.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with antifreeze ingestion suggests ethylene glycol poisoning. In ethylene glycol poisoning, calcium oxalate crystals are typically seen in the urine.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with altered mental status, hypothermia, bradycardia, hyponatremia, and low TSH and thyroid hormone levels is consistent with myxedema coma, which is a severe form of hypothyroidism.
+Answer: (A) Myxedema coma",A
+"Explanation: We refer to Wikipedia articles on medicine for help. With aging, lung compliance decreases, so the most likely change in respiratory function in this patient would be decreased lung compliance.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including right upper abdominal pain, nausea, and laboratory findings of leukocytosis and elevated liver enzymes, are suggestive of acute cholecystitis, which is commonly caused by obstruction of the cystic duct.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of a swollen and reddened toe in a crying infant suggests Hair tourniquet syndrome, where a hair or thread wraps around a toe or finger causing pain and swelling.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and the CT scan findings suggest a cerebrovascular accident (CVA) or stroke. The presence of a Babinski sign indicates upper motor neuron lesion, which is consistent with a stroke. Therefore, the most appropriate next step in management would be Warfarin therapy to prevent further thrombotic events.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The sudden onset of symptoms after rupture of membranes and combined spinal-epidural anesthesia, along with the presence of bright red blood in the cervical canal, suggests an amniotic fluid embolism (AFE). This is a rare but serious condition where amniotic fluid enters the maternal circulation, leading to a cascade of events resulting in cardiovascular collapse and respiratory distress.
+Answer: (B) Amniotic fluid entering the endocerv",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with an absolute lymphocyte count of 50,000/mm3 suggests Chronic Lymphocytic Leukemia (CLL). The other options are less likely based on the provided information.
+Answer: (A) Chronic lymphocytic leukemia (CLL)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. Invasive ductal carcinoma is commonly associated with overexpression of HER2 gene.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and findings suggest an underlying congenital heart defect, likely an atrial septal defect (ASD) given the fixed splitting of S2. During pregnancy, the increase in blood volume can exacerbate the right-to-left shunting through the ASD, leading to increased cyanosis, dyspnea, and symptoms of heart failure. 
+Answer: (D) Increase in blood volume",D
+"Explanation: The number needed to treat (NNT) is calculated as the reciprocal of the absolute risk reduction. Absolute risk reduction is calculated by subtracting the risk in the treatment group from the risk in the control group. 
+
+Risk in the treatment group = 190/250 = 0.76
+Risk in the control group = 165/250 = 0.66
+
+Absolute risk reduction = 0.76 - 0.66 = 0.1
+
+NNT = ",
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described suggest allergic conjunctivitis, which is commonly treated with antihistamine eye drops. Ketotifen is an antihistamine and mast cell stabilizer that can help relieve the symptoms described.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient is presenting with cardiogenic shock due to a myocardial infarction. To improve hemodynamic status, a medication that primarily stimulates Beta-1 adrenergic receptors would be most appropriate as it increases heart rate and contractility.
+Answer: (B) Beta-1 adrenergic receptor",B
+"Explanation: We refer to Wikipedia articles on medicine for help. In a low-risk patient, the most reasonable first step to rule out pulmonary embolism is to perform a D-dimer test. If the D-dimer is negative, it can help exclude the diagnosis without the need for further imaging studies.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are consistent with peripheral neuropathy, which is commonly seen with isoniazid (an antimycobacterial drug) use. Isoniazid can lead to vitamin B6 deficiency, causing peripheral neuropathy.
+Answer: (C) Segmental demyelination of peripheral axons",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with subcutaneous emphysema, recurrent pneumothorax despite chest tube placement, and a history of trauma suggest a tension pneumothorax.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms are consistent with a phototoxic reaction, which is caused by cell injury due to drug metabolites. Demeclocycline is known to cause photosensitivity reactions.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The only immunoglobulin found as a dimer is IgA, and its primary function is inhibiting bacterial adherence and colonization of mucous membranes.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's improved vision and the presence of microaneurysms suggest that the most likely explanation is liquefaction of the vitreous body, which can lead to improved vision.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms are consistent with gastroesophageal reflux (GER). The best next step in management would be reassurance and counseling on positioning, as this can often help alleviate symptoms in infants with GER.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The primary measure used in this study is the Standardized Mortality Ratio (SMR), which is calculated by dividing the observed number of deaths by the expected number of deaths.
+Answer: (C) The observed number of deaths divided by the expected number of deaths",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has signs and symptoms suggestive of deep vein thrombosis (DVT) after surgery. The most appropriate next step in management is Compression ultrasonography to confirm the diagnosis of DVT.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms of dry cough, fever, chills, and fatigue after working with birds suggest Psittacosis, a zoonotic infectious disease caused by Chlamydia psittaci. The most appropriate treatment is avoiding exposure to birds to prevent further infection.
+Answer: (C) Avoid exposure to birds",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation of deep, boring pain in the thigh, along with the laboratory findings of elevated alkaline phosphatase and the bone biopsy image showing brown tumors, is consistent with osteitis fibrosa cystica, which is a manifestation of hyperparathyroidism.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of the skin-colored nodule that moves with the Achilles tendon suggests a diagnosis of Achilles tendon xanthoma, which is associated with familial hypercholesterolemia. Therefore, the serum studies are most likely to show increased levels of low-density lipoprotein (LDL).
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The A-a gradient is normal, which rules out impaired gas diffusion. The patient is obese and has a history of taking sleeping pills, which can lead to alveolar hypoventilation causing severe shortness of breath.
+Answer: (A) Alveolar hypoventilation",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's laboratory values suggest metabolic acidosis, which is a known side effect of Metformin, especially in patients with renal impairment.
+Answer: (C) Metformin",C
+"Explanation: We refer to Wikipedia articles on medicine for help. Absent deep tendon reflexes suggest magnesium toxicity. The most appropriate next step is to stop magnesium sulfate and give calcium gluconate to counteract the effects of magnesium.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms suggest polycystic ovary syndrome (PCOS), which is characterized by irregular menstrual cycles, infertility, obesity, acne, and hirsutism. Lifestyle modifications are important in managing PCOS. Among the options, Clomiphene therapy is commonly used to induce ovulation in women with PCOS.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. Given the patient's early gestational age and desire for elective abortion, the most appropriate procedure would be oral mifepristone followed by misoprostol for medical abortion.
+Answer: (D) Oral mifepristone + misoprostol",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and physical exam findings suggest hypothyroidism. Elevated TSH is expected in hypothyroidism.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The harsh systolic ejection murmur at the left lower sternal border, accentuated by forceful expiration against a closed airway, along with the palpation of 2 closely spaced pulses during systole, is most consistent with Aortic stenosis.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is consistent with Parkinson's disease, which is most strongly associated with intracellular inclusions of alpha-synuclein.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The skin findings and the retinal lesions are characteristic of tuberous sclerosis complex (TSC), which is caused by a mutation in the TSC1 gene on chromosome 9.
+Answer: (C) TSC1 gene on chromosome 9",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with epigastric pain radiating to the back, along with hypotension and tachycardia, is concerning for acute pancreatitis. The most likely underlying cause of the patient's vital sign abnormalities is capillary leakage, which can lead to hypovolemia and subsequent hypotension.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of a long erythematous rash with clear vesicles and crusty lesions extending from the back to below the right breast is characteristic of herpes zoster, which is caused by viral reactivation in dorsal root ganglia.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with shortness of breath, cough, JVD, and edema is suggestive of heart failure. The lab values show metabolic alkalosis with hypokalemia, which is consistent with loop diuretic use. Therefore, the best option for this patient is Furosemide, a loop diuretic commonly used in heart failure.
+Answer: (A) Furosemide",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with fever, joint pain, headache, and a history of a tick bite suggests Lyme disease. The treatment of choice for Lyme disease in pregnancy is Amoxicillin.
+Answer: (C) Amoxicillin",C
+"Explanation: We refer to Wikipedia articles on medicine for help. An enlarged, nontender left supraclavicular node is known as Virchow's node and is concerning for malignancy, especially gastric cancer. Therefore, an ultrasound of the neck would be the most appropriate test to assess the left supraclavicular node further.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The image shows the location of the spinal cord lesion in the lateral spinothalamic tract. This tract carries pain and temperature sensation. Therefore, the most likely finding would be decreased sense of temperature in the ipsilateral arm.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. Increasing the cut-off value from 6.5% to 7.0% would mean a higher threshold for diagnosing diabetes. This would lead to fewer individuals being diagnosed with diabetes, resulting in an increase in false negative test results.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including severe headache, vision changes, and obesity, are concerning for idiopathic intracranial hypertension (pseudotumor cerebri). The best next step in management for this condition is an MRI to evaluate for signs of increased intracranial pressure.
+Answer: (C) MRI",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has hypoxemia with a low pO2 and normal pCO2, indicating a ventilation-perfusion mismatch. The best next step in this scenario would be to increase the FiO2 to improve oxygenation.
+Answer: (A) Increase the FiO2",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described suggest social anxiety disorder. Among the options, Fluoxetine, a selective serotonin reuptake inhibitor (SSRI), is commonly used to treat social anxiety disorder.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The history of recurrent ear infections, retracted tympanic membranes, and conductive hearing loss suggest otitis media with effusion. Tympanostomy tube insertion is the most appropriate next step in management to relieve the effusion and improve hearing.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and CT findings suggest Crohn's disease, which is characterized by the formation of noncaseating granulomas.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The clinical presentation suggests pericarditis, which can be seen in uremic pericarditis due to chronic kidney disease. In this case, broad and waxy casts are expected on urinary analysis.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The characteristic change in chromosome 18 suggests a diagnosis of Chronic Lymphocytic Leukemia (CLL). In CLL, the regulation of Cyclin-dependent kinase 4 (CDK4) is most abnormal.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms of weight gain, fatigue, and constipation along with a low heart rate suggest hypothyroidism. In hypothyroidism, the most likely laboratory value to be elevated is Thyroid-stimulating hormone (TSH).
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with severe chest pain following a stressful event, along with an enlarged left ventricle and left atrium on echocardiography, is characteristic of Takotsubo cardiomyopathy, also known as stress-induced cardiomyopathy or ""broken heart syndrome.""
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. A thyroid nodule with decreased iodine uptake and a neoplasm diagnosis is most likely to be a Follicular carcinoma. Papillary carcinoma is the most common type of thyroid cancer but typically has increased iodine uptake.
+Answer: (C) Follicular carcinoma",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient has a low leukocyte count and segmented neutrophils, indicating neutropenia. Granulocyte-macrophage colony-stimulating factor (GM-CSF) is used to stimulate the production of white blood cells, including neutrophils, and can be appropriate in this scenario.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Cricopharyngeal muscle dysfunction is commonly associated with Zenker's diverticulum, which can lead to dysphagia and halitosis.
+Answer: (D) Zenker's diverticulum",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are characteristic of severe combined immunodeficiency (SCID). Among the options, Adenosine deaminase deficiency is a known cause of SCID.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms suggest heart failure. In heart failure, an S3 gallop is often present due to rapid ventricular filling in early diastole.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with fatigue, low energy, and laboratory findings of low hemoglobin and MCV suggest iron deficiency anemia. The most appropriate initial step in treatment would be iron supplementation.
+Answer: (C) Iron supplementation",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's withdrawn behavior and hesitance to make eye contact suggest a need to assess the patient's risk for depression. This is important as depression is common in elderly individuals with cognitive impairment.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described are characteristic of Sjögren's syndrome. Anti-Sjögren's syndrome type B (SS-B) antibody is commonly seen in Sjögren's syndrome.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described, including hearing loss, ear ringing, and unsteadiness, are characteristic of presbycusis, which is age-related hearing loss. In presbycusis, the most likely structure impaired is the Cochlea, which is responsible for hearing.
+Answer: (D) Cochlea",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms and ECG findings are consistent with atrial fibrillation. Anticoagulation is necessary to prevent thromboembolic events in atrial fibrillation. The mechanism of action of anticoagulants like heparin and warfarin involves the activation of the antithrombin enzyme, which inhibits thrombin and factor Xa.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation is concerning for appendicitis. The next best step in management for suspected appendicitis is a CT scan to confirm the diagnosis and assess the severity of the condition.
+Answer: (C) CT scan",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described, including inappropriate behavior, memory loss, and word-finding difficulty, are characteristic of Frontotemporal dementia.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with an alcoholic smell, slurred speech, ataxic gait, and diminished deep tendon reflexes is most consistent with Ethanol intoxication.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Given the patient's history of poorly controlled type II diabetes mellitus and recent initiation of glipizide, the most likely cause of his symptoms is medication-induced. Glipizide is a sulfonylurea used to treat diabetes and can cause hypoglycemia, leading to symptoms such as fatigue and dark urine.
+Answer: (C) Medication",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's history of heavy smoking, symptoms of shortness of breath, productive cough, and physical exam findings of crackles at the lung base suggest Chronic Obstructive Pulmonary Disease (COPD). The spirometry results with a decreased FEV1 and FEV1/FVC ratio support this diagnosis.
+Answer: (C) Chronic obstructive pulmonary disease (COPD)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with pale skin, back pain, and laboratory findings of anemia, elevated creatinine, and proteinuria without RBCs or pus cells suggests a renal cause. The most likely category for this type of proteinuria is Isolated proteinuria.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The normal ascension of the kidney during embryological development is prevented by the Inferior mesenteric artery.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient presents with symptoms of pneumonia and diarrhea, which could be indicative of Legionnaires' disease. Levofloxacin is the preferred treatment for Legionnaires' disease.
+Answer: (A) Levofloxacin",A
+"Explanation: We refer to Wikipedia articles on psychology for help. The patient's response of attributing his weight gain to genetics and enjoying eating what he wants rather than making an effort to control his weight is an example of rationalization, which is a defense mechanism where unacceptable behaviors or feelings are justified and explained in a rational or logical manner.
+Answer: (A) Rationalization",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with shortened extremities and frontal bossing is characteristic of achondroplasia, which is caused by an activating mutation in the fibroblast growth factor receptor 3 (FGFR3) gene. This mutation affects endochondral ossification, the process by which long bones grow.
+Answer: (C) Endochondral ossification",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The description of the injury suggests an anterior shoulder dislocation. In anterior shoulder dislocation, the axillary nerve is at risk of injury, leading to reduced sensation in the lateral aspect of the shoulder.
+Answer: (B) Lateral aspect of the shoulder",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's concern about glucose in the urine and increased frequency of urination suggest the need for further evaluation. The most appropriate test to determine the cause of the abnormal dipstick test results is a urinalysis.
+Answer: (C) Urinalysis",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's presentation with chest pain, ripping pain radiating to the back, and weak distal pulses is concerning for an aortic dissection. Given the patient's history of a heart murmur and joint hypermobility, the most likely diagnosis is Marfan syndrome. In Marfan syndrome, aortic dissection is a known complication. The murmur associated with aortic regurgitation in Marfan syndrome is typically a diast",
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms and imaging findings are consistent with a diagnosis of small bowel obstruction. The branching radiolucencies in the right infra-diaphragmatic region suggest pneumatosis intestinalis, which is indicative of bowel ischemia.
+Answer: (D) Torsion of the large intestine",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The red urine after chemotherapy is a common side effect of Cyclophosphamide, known as hemorrhagic cystitis.
+Answer: (B) Cyclophosphamide",B
+"Explanation: We refer to Wikipedia articles on medicine for help. The patient's symptoms, including nausea, vomiting, weakness, back/leg pain, and EKG findings of T wave flattening, suggest hypokalemia. Thiazides can cause hypokalemia and are commonly used to treat nephrogenic diabetes insipidus. Among the options, Wilson disease is associated with low serum copper and ceruloplasmin levels, leading to copper accumulation in the liver and other organs.
+",
+"Explanation: We refer to Wikipedia articles on medicine for help. The daughter's extreme shyness, social isolation, sensitivity to criticism, and feelings of inadequacy and fear of rejection are characteristic of Avoidant Personality Disorder.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms of greasy diarrhea, excessive belching, and flatulence suggest malabsorption of fats, which is a common side effect of medications that inhibit lipase, such as orlistat, a weight-loss medication.
+Answer: (D)",D
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the medications listed, Simvastatin is known to potentially cause liver function test abnormalities.
+Answer: (B)",B
+"Explanation: We refer to Wikipedia articles on medicine for help. Among the options, IL-4 is the mediator that favors the class switching of antibodies and is involved in allergic responses. Inhibiting IL-4 can help reduce the exaggerated response during asthmatic attacks.
+Answer: (D) IL-4",D
+"Explanation: We refer to Wikipedia articles on medicine for help. The scenario describes a patient with hepatitis A virus infection. The molecule responsible for inducing upregulation of MHC class I molecules is interferon. Interferon is also responsible for the activation of eukaryotic initiation factor 2.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. The presence of free air in the soft tissue of the left leg suggests gas gangrene, which is commonly caused by Clostridium perfringens. This organism is also a common cause of food-borne illness.
+Answer: (C)",C
+"Explanation: We refer to Wikipedia articles on medicine for help. A cohort study typically involves a larger number of patients and compares outcomes between different groups. In this case, since all patients received the same treatment and there were no complications, the study more closely resembles a case series, which typically involves a smaller number of patients with similar characteristics and outcomes.
+Answer: (B) Low number of patients",B
+"Explanation: We refer to Wikipedia articles on medicine for help. During exertion, the substance released locally to increase coronary blood flow is Adenosine.
+Answer: (A)",A
+"Explanation: We refer to Wikipedia articles on medicine for help. The symptoms described suggest a deficiency in nucleotide excision repair, which is responsible for repairing DNA damage caused by UV radiation.
+Answer: (A) Nucleotide excision repair",A
