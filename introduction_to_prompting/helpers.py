@@ -259,3 +259,32 @@ def get_response(messages, model_name, temperature = 0.0, max_tokens = 10):
         max_tokens=max_tokens
     )
     return response.choices[0].message.content
+
+def build_few_shot_prompt_wo_chat_template(system_prompt, content, few_shot_examples):
+    """
+    Builds the few-shot prompt using provided examples, bypassing the chat-template
+    for Llama-2.
+
+    Args:
+        system_prompt (str): Task description for the LLM
+        content (dict): The content for which to create a query, similar to the
+            structure required by `create_query`.
+        few_shot_examples (list of dict): Examples to simulate a hypothetical
+            conversation. Each dict must have "options" and an "answer".
+
+    Returns:
+        str: few-shot prompt in non-chat format
+    """
+    few_shot_prompt = ""
+    few_shot_prompt += "Task: " + system_prompt + "\n"
+    for item in few_shot_examples:
+        ans_options = item["options"]
+        correct_ans_option = ""
+        for key, value in ans_options.items():
+            if value == item["answer"]:
+                correct_ans_option = key
+                break
+        few_shot_prompt += create_query(item) + "\n" + "The answer is " + correct_ans_option + "." + "\n"
+    
+    few_shot_prompt += create_query(content) + "\n"
+    return few_shot_prompt
