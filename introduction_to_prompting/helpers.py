@@ -195,7 +195,7 @@ def build_cot_prompt(instruction, input_question, cot_examples):
     """
     Builds the few-shot prompt for the GPT API using provided examples.
 
-    Parameters:
+    Args:
         content (dict): The content for which to create a query, similar to the
             structure required by `create_query`.
         few_shot_examples (list of dict): Examples to simulate a hypothetical
@@ -220,7 +220,7 @@ def parse_answer_cot(text):
     """
     Extracts the choice from a string that follows the pattern "Answer: (Choice) Text".
 
-    Parameters:
+    Args:
     - text (str): The input string from which to extract the choice.
 
     Returns:
@@ -244,7 +244,7 @@ def get_response(messages, model_name, temperature = 0.0, max_tokens = 10):
     """
     Obtains the responses/answers of the model through the chat-completions API.
 
-    Parameters:
+    Args:
         messages (list of dict): The built messages provided to the API.
         model_name (str): Name of the model to access through the API
         temperature (float): A value between 0 and 1 that controls the randomness of the output.
