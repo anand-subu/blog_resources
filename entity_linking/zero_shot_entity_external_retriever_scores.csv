@@ -1,0 +1,3 @@
+Task,Macro Precision,Macro Recall,Macro F1
+Entity Extraction,40.61%,47.60%,41.81%
+Entity Linking,24.47%,28.41%,25.05%
