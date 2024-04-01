@@ -15,3 +15,6 @@ I've used the [BC5CDR dataset](https://ftp.ncbi.nlm.nih.gov/pub/lu/BC5CDR/) for 
 along with:
 
 5. Jiao Li, Yueping Sun, Robin J. Johnson, Daniela Sciaky, Chih-Hsuan Wei, Robert Leaman, Allan Peter Davis, Carolyn J. Mattingly, Thomas C. Wiegers, Zhiyong Lu, BioCreative V CDR task corpus: a resource for chemical disease relation extraction, Database, Volume 2016, 2016, baw068, https://doi.org/10.1093/database/baw068
+
+## Model Weights
+I used [Mistral-7B-Instruct](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) as the LLM for all experiments. The LoRA weights fine-tuned using a quantized and frozen Mistral model is available [here](https://huggingface.co/anand-s/mistral-biomedical-entity-extraction).
