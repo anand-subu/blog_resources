@@ -1,4 +1,5 @@
-An Introduction to Prompting for LLMs [[Blog Article](https://medium.com/@anand.subu10/an-introduction-to-prompting-for-llms-61d36aec2048)]
+## An Introduction to Prompting for LLMs [[Blog Article](https://medium.com/@anand.subu10/an-introduction-to-prompting-for-llms-61d36aec2048)]
+This directory contains the code and resources for running the experiments described in the blog article.
 
 ## Setting up the environment
 
