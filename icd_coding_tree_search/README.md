@@ -1,7 +1,9 @@
 # automated-icd-coding-llm
 
 ### Overview
-This is an unofficial implementation of the algorithm described in the paper [Automated clinical coding using off-the-shelf large language models](https://openreview.net/pdf?id=mqnR8rGWkn).
+This is an unofficial implementation of the algorithm described in the paper [Automated clinical coding using off-the-shelf large language models](https://openreview.net/pdf?id=mqnR8rGWkn). 
+
+(This folder is also a mirror version of [my original repo](https://github.com/anand-subu/automated-clinical-coding-llm) to ensure that I version all resources and code for my blog post articles in one common place.)
 
 ### LLM Guided Tree-Search Algorithm
 
