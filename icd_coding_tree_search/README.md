@@ -1,5 +1,5 @@
-# automated-icd-coding-llm
-
+# Exploring LLMs for ICD Coding — Part 1 [[Blog Article](https://medium.com/towards-data-science/exploring-llms-for-icd-coding-part-1-959e48b58b9e)]
+This directory contains the code and resources for running the experiments described in the blog article.
 ### Overview
 This is an unofficial implementation of the algorithm described in the paper [Automated clinical coding using off-the-shelf large language models](https://openreview.net/pdf?id=mqnR8rGWkn). 
 
