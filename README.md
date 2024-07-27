@@ -9,3 +9,5 @@ A repository meant to version code and other resources related to my blog articl
 [2] Building a Biomedical Entity Linker with LLMs: [Article](https://medium.com/towards-data-science/building-a-biomedical-entity-linker-with-llms-d385cb85c15a)
 
 [3] Exploring LLMs for ICD Coding — Part 1: [Article](https://medium.com/towards-data-science/exploring-llms-for-icd-coding-part-1-959e48b58b9e)
+
+[4] Understanding and Implementing Medprompt: [Article](https://medium.com/towards-data-science/understanding-and-implementing-medprompt-77bbd2777c91)
