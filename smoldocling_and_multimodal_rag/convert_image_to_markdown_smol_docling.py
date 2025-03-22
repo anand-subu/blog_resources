@@ -1,7 +1,9 @@
 import os
+import argparse
 from pathlib import Path
 
 import torch
+from tqdm import tqdm
 from PIL import Image
 from transformers import AutoProcessor, AutoModelForVision2Seq
 from transformers.image_utils import load_image
@@ -9,15 +11,30 @@ from transformers.image_utils import load_image
 from docling_core.types.doc import DoclingDocument
 from docling_core.types.doc.document import DocTagsDocument
 
-# Set device to GPU if available, otherwise CPU
-DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
-# Initialize processor and model
-processor = AutoProcessor.from_pretrained("ds4sd/SmolDocling-256M-preview")
-model = AutoModelForVision2Seq.from_pretrained(
-    "ds4sd/SmolDocling-256M-preview",
-    torch_dtype=torch.bfloat16,
-).to(DEVICE)
+def get_device():
+    """
+    Returns the available device: 'cuda' if available, else 'cpu'.
+    """
+    return "cuda" if torch.cuda.is_available() else "cpu"
+
+
+def load_model_and_processor(device):
+    """
+    Loads the HuggingFace model and processor for SmolDocling.
+
+    Args:
+        device (str): 'cuda' or 'cpu'
+
+    Returns:
+        tuple: (processor, model)
+    """
+    processor = AutoProcessor.from_pretrained("ds4sd/SmolDocling-256M-preview")
+    model = AutoModelForVision2Seq.from_pretrained(
+        "ds4sd/SmolDocling-256M-preview",
+        torch_dtype=torch.bfloat16,
+    ).to(device)
+    return processor, model
 
 
 def process_image_to_docling_markdown(image, processor, model, device):
@@ -61,7 +78,7 @@ def process_image_to_docling_markdown(image, processor, model, device):
 
 def process_image_folders(root_folder, output_root, processor, model, device):
     """
-    Walks through nested folders of PNG images, converts each image to Docling Markdown,
+    Walks through nested folders of images, converts each to Docling Markdown,
     and saves results in a mirrored folder structure.
 
     Args:
@@ -74,37 +91,47 @@ def process_image_folders(root_folder, output_root, processor, model, device):
     root_folder = Path(root_folder)
     output_root = Path(output_root)
 
+    # Collect all image paths first
+    image_paths = []
     for dirpath, _, filenames in os.walk(root_folder):
-        image_files = [f for f in filenames if f.lower().endswith(".png")]
-        if not image_files:
-            continue
+        for file in filenames:
+            if file.lower().endswith((".png", ".jpg", ".jpeg")):
+                image_paths.append(Path(dirpath) / file)
 
-        relative_path = Path(dirpath).relative_to(root_folder)
+    # Process with tqdm progress bar
+    for image_path in tqdm(image_paths, desc="Processing images"):
+        relative_path = image_path.parent.relative_to(root_folder)
         output_path = output_root / relative_path
         os.makedirs(output_path, exist_ok=True)
 
-        for image_file in sorted(image_files):
-            image_path = os.path.join(dirpath, image_file)
-            print(f"Processing image: {image_path}")
+        md_output_path = output_path / image_path.with_suffix(".md").name
+        image = load_image(image_path)
 
-            md_output_path = output_path / Path(os.path.splitext(image_file)[0] + ".md")
-            image = load_image(image_path)
-
-            try:
-                markdown = process_image_to_docling_markdown(image, processor, model, device)
-                with open(md_output_path, "w", encoding="utf-8") as f:
-                    f.write(markdown)
-                print(f"Saved markdown to: {md_output_path}")
-            except Exception as e:
-                print(f"Failed to process {image_path}: {e}")
+        try:
+            markdown = process_image_to_docling_markdown(image, processor, model, device)
+            with open(md_output_path, "w", encoding="utf-8") as f:
+                f.write(markdown)
+        except Exception as e:
+            print(f"\nFailed to process {image_path}: {e}")
 
 
-# Example usage
-if __name__ == "__main__":
+def main():
+    parser = argparse.ArgumentParser(description="Convert images to Docling-style markdown using SmolDocling.")
+    parser.add_argument("input_folder", help="Root folder containing image files (.png, .jpg, .jpeg).")
+    parser.add_argument("output_folder", help="Folder to save the generated markdown files.")
+    args = parser.parse_args()
+
+    device = get_device()
+    processor, model = load_model_and_processor(device)
+
     process_image_folders(
-        root_folder="output_images",         # Folder with subfolders of images
-        output_root="output_markdown",       # Folder to save the markdown files
+        root_folder=args.input_folder,
+        output_root=args.output_folder,
         processor=processor,
         model=model,
-        device=DEVICE
+        device=device
     )
+
+
+if __name__ == "__main__":
+    main()
