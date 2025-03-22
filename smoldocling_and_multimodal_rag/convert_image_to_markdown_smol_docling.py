@@ -117,8 +117,8 @@ def process_image_folders(root_folder, output_root, processor, model, device):
 
 def main():
     parser = argparse.ArgumentParser(description="Convert images to Docling-style markdown using SmolDocling.")
-    parser.add_argument("input_folder", help="Root folder containing image files (.png, .jpg, .jpeg).")
-    parser.add_argument("output_folder", help="Folder to save the generated markdown files.")
+    parser.add_argument("--input_folder", help="Root folder containing image files (.png, .jpg, .jpeg).")
+    parser.add_argument("--output_folder", help="Folder to save the generated markdown files.")
     args = parser.parse_args()
 
     device = get_device()
