@@ -1,3 +1,6 @@
 ragas
 langchain-community
 langchain-openai
+unstructured
+markdown
+pandas
