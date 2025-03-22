@@ -102,7 +102,6 @@ def create_schema_if_needed(client):
         client.collections.create(
             name="DocumentChunk",
             vectorizer_config=wvc.config.Configure.Vectorizer.text2vec_openai(),
-            reranker_config=wvc.config.Configure.Reranker.voyageai(model="rerank-2"),
             properties=[
                 wvc.config.Property(name="content", data_type=wvc.config.DataType.TEXT),
                 wvc.config.Property(name="document_name", data_type=wvc.config.DataType.TEXT, vectorize_property_name=False, tokenization=wvc.config.Tokenization.FIELD),
