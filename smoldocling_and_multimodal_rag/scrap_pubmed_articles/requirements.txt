@@ -1,0 +1,4 @@
+requests
+biopython
+tqdm
+pdf2image
