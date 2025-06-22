@@ -3,3 +3,4 @@ opencv-python
 tqdm
 transformers
 openai
+pillow==9.5.0
