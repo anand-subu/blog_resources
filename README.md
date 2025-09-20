@@ -15,3 +15,5 @@ A repository meant to version code and other resources related to my blog articl
 [5] Creating a Knowledge Graph for ICD Codes using LLMs: [Article](https://ai.gopubby.com/creating-a-knowledge-graph-for-icd-codes-using-llms-e6132523bd96) 
 
 [6] Prompting Vision Language Models: [Article](https://medium.com/towards-data-science/prompting-with-vision-language-models-bdabe00452b7)
+
+[7] Building an Agentic Object Detection Pipeline: [Article](https://medium.com/ai-advances/building-an-agentic-object-detection-pipeline-34e1f3a47323)
